@@ -16,6 +16,7 @@ Internship positions are available for UG and PG students in the areas of Wirele
 - SDR‑based Satellite Receiver  
 
 ---
+- [**UG & PG Projects at Collaborating Institutes**](ugpgprojects.md)
 - [**Past & Current Internships**](past-current.md)
 - [**Visitng Scholars**](visiting-scholars.md)
 
