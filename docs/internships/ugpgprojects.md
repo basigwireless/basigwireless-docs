@@ -8,7 +8,8 @@
 | 4    | Sudarshan        | KL University, Vijayawada    | Human Detection using 5G MEC  | Ongoing  |
 | 5    | Amith       | KL University, Vijayawada    | 5G IoT Network        | Ongoing  |
 | 6    | Sreekar    | KL University, Vijayawada    | Spectrum Sensing   | Ongoing  |
-| 7    | P Pattabiram, Shiva Kumar      | KL University, Vijayawada    | YESDR              | Ongoing  |
+| 7    | P Pattabiram      | KL University, Vijayawada    | YESDR              | Ongoing  |
+| 7    | Shiva Kumar      | KL University, Vijayawada    | YESDR              | Ongoing  |
 | 8    | Rikshit, Sruthi        | Mahindra University          | DoA Analysis       | Ongoing  |
 
 ---
