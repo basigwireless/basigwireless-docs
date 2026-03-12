@@ -1,12 +1,13 @@
 
-- **Chandhar, P.** *Deep Radio: AI‑Driven Signal Processing for Wireless Communication Systems –  Theory, Techniques, and Real‑Time Over‑the‑Air Hands‑On SDR Projects with  Machine Learning, Deep Learning, and Python.*  
-  Chandhar Research Press, 2025.  
-  **ISBN:** 978‑81‑982943‑2‑6.
+- **Prabhu Chandhar,** *YESDR: Your Extensible Sfotware-Defined Radio.*  
+  Chandhar Research Press, 2026.  
+  **ISBN:** 978-81-982943-6-4.
 
-- **Kilaru, A.; Chandhar, P.**  *5G NR Hands‑On.*  
+- **Aravind Kilaru; Prabhu Chandhar,**  *5G NR Hands‑On.*  
   Chandhar Research Press, 2025.
+  **ISBN:** 978‑81‑982943‑5‑7.
 
-- **Kilaru, A.; Chandhar, P.**  *LTE Hands‑On.*  
+- **Aravind Kilaru; Prabhu Chandhar,**  *LTE Hands‑On.*  
   Chandhar Research Press, 2024.  
   **ISBN:** 978‑81‑982943‑9‑5.
 
