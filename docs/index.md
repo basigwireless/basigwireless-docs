@@ -29,7 +29,7 @@ The company develops customized software and communication equipment for 5G cell
 
 Our platforms are designed for academic institutions, R&D labs, and industry.
 
-- **5‑Nines Radio** – End‑to‑End 4G/5G Testbed  
+- **Five9 Radio** – End‑to‑End 4G/5G Testbed  
 - **Deep Radio** – AI‑Driven Wireless Testbed  
 - **Wi‑Guy** – SDR Platform for Wireless Learning  
 - **5NR‑NSMEC** – 5G Network Slicing & MEC Emulator  
@@ -64,8 +64,8 @@ Our work is published in IEEE journals and international conferences.
 
 ---
 
-## Basig Wireless Press
-Chandhar Research Press is the publishing imprint of Basig Wireless Laboratories India Pvt. Ltd.  
+## Chandhar Research Press
+Chandhar Research Press is the publishing imprint of BaSig Wireless Laboratories India Pvt. Ltd.  
  
 [More about Basig Wireless Press](press/index.md)
 
