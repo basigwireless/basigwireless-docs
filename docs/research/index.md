@@ -1,6 +1,6 @@
 # Research
 
-Research at Basig Wireless Laboratories focuses on
+Research at Basig Wireless Laboratories India focuses on
 next‑generation wireless communication systems, intelligent networks,
 and secure, spectrum‑efficient technologies.
 

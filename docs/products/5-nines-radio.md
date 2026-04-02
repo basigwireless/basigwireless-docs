@@ -109,13 +109,13 @@ Moreover, the Five-Nines Radio is designed to support:
 
 
 
-- **Training**: Training every six months for three years at either customer premises or Chandhar Research Labs. Support to faculty members in drafting lab, skilling, and tutorial manual for the proposed experiments will be provided.
+- **Training**: Training every six months for three years at either customer premises or Basig Wireless Laboratories India. Support to faculty members in drafting lab, skilling, and tutorial manual for the proposed experiments will be provided.
 
 - **Internships**: Internship opportunities will be provided for eligible UG and PG students in Wireless Communications, 5G, IoT, and RF Machine Learning. The selected students will be assigned to work on the following topics ranging from 2 to 6 months.
 
 - **FDPs**: We will provide support to organize faculty development programs in topics such as AI/ML in wireless, 5G, and 6G.
 
-- **Research Collaboration**: Faculty members, UG and PG students, and research scholars can collaborate with Chandhar Research Labs on the development of 5G use cases including standard development and research publication in conferences and journals.
+- **Research Collaboration**: Faculty members, UG and PG students, and research scholars can collaborate with Basig Wireless Laboratories India on the development of 5G use cases including standard development and research publication in conferences and journals.
 
 
 ---

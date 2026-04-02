@@ -72,7 +72,7 @@ nav:
       - Journal Publications: publications/journal-publications.md
       - Conference Publications: publications/conference-publications.md
 
-  - Basig Wireless Laboratories Press:
+  - Basig Wireless Press:
       - Basig Wireless Laboratories Press-Overview: press/index.md
       - Journals:
         - JEWS: press/jews.md
@@ -120,5 +120,5 @@ markdown_extensions:
 plugins: []
 
 copyright: >
-  © 2018–2026 Basig Wireless Laboratories Pvt. Ltd. All rights reserved.
+  © 2018–2026 Basig Wireless Laboratories India Pvt. Ltd. All rights reserved.
 
