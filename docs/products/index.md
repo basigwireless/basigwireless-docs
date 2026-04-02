@@ -1,6 +1,6 @@
 # Products
 
-Basig Wireless Laboratories Pvt. Ltd. develops research‑grade platforms and testbeds for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
+BaSig Wireless Laboratories India Pvt. Ltd. develops research‑grade platforms and testbeds for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
 
 ---
 
@@ -18,7 +18,7 @@ Basig Wireless Laboratories Pvt. Ltd. develops research‑grade platforms and te
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: info@BasigWirelessLaboratoriesIndia.com
+    Email: info@basigwireless.com
 
     Kindly mention the product name in your message.
 
