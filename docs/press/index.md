@@ -1,9 +1,6 @@
 # Chandhar Research Press
 
-Chandhar Research Press is the publishing imprint of
-BaSig Wireless Labouatories India Pvt. Ltd., dedicated to disseminating
-high‑quality research outputs, academic books, and technical standards
-in wireless communications and related domains.
+An independent publishing imprint associated with **BaSig**, covering research, books, and standards across technical, academic, and interdisciplinary domains.
 
 ---
 
