@@ -1,6 +1,6 @@
 # Chandhar Research Press
 
-An independent publishing imprint associated with **BaSig**, covering research, books, and standards across technical, academic, and interdisciplinary domains.
+An independent publishing imprint associated with BaSig, covering research, books, and standards across technical, academic, and interdisciplinary domains.
 
 ---
 
