@@ -22,7 +22,7 @@ research, surveillance, and autonomous communication experiments.
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: **info@BasigWirelessLaboratoriesIndia.com**  
+    Email: **info@basigwireless.com**  
 
     Kindly mention the **product name** in your message.
 
