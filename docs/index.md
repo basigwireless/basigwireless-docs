@@ -69,7 +69,8 @@ Our work is published in IEEE journals and international conferences.
 ---
 
 ## Chandhar Research Press
-Chandhar Research Press is the publishing imprint of BaSig Wireless Laboratories India Pvt. Ltd.  
+
+An independent imprint associated with BaSig for research, books, and standards. 
  
 [More about Chandhar Research Press](press/index.md)
 
