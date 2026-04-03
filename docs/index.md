@@ -101,9 +101,9 @@ We offer internships and research collaboration opportunities for:
 
 - [JEWS - Journal of Experimental Wireless Systems](https://jewsjournal.org)
 - [YESDR Standard](https://yesdr-standard.org)
-- [GitHub – BaSig Wireless Laboratories India](https://github.com/basigwireless)
-- [Kaggle – BaSig Wireless Laboratories India](https://www.kaggle.com/chandharlabs)
-- [Youtube - BaSig Wireless Laboratories India](https://www.youtube.com/@BaSigWireless/videos)
+- [GitHub – BaSig Wireless](https://github.com/basigwireless)
+- [Kaggle – BaSig Wireless](https://www.kaggle.com/chandharlabs)
+- [Youtube - BaSig Wireless](https://www.youtube.com/@BaSigWireless/videos)
 
 ---
 
