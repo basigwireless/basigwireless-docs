@@ -1,13 +1,15 @@
 # Contact Us
 
-## Registered Adddress
+## Registered Address
 
 **BaSig Wireless Laboratories India Pvt. Ltd.**  
 68/5, Keelaparasalur, Melakattalai, Arupathy  
 Tharangambadi Taluk, Mayiladuthurai District  
 Tamil Nadu – 609309.  
 
-Email: info@basigwireless.com 
+Email: 
+
+       info@basigwireless.com 
 
        sales@basigwireless.com 
 
