@@ -1,32 +1,32 @@
-# Five9 Radio<sup>®</sup> – 5G Testbed
+# 5Nines Radio<sup>®</sup> – 5G Testbed
 
 !!! info "Why the name Five‑Nines Radio?"
-    **Five9 Radio** refers to a 5G radio communication system designed
+    **5Nines Radio** refers to a 5G radio communication system designed
     to achieve a high level of reliability and availability, often measured
     as **“five nines” (99.999% uptime)**. The main objective is to engineer the radio system to maintain
     connectivity and communication capabilities with minimal downtime,
     ensuring reliable operation even in challenging environments or adverse conditions.
 
 
-**Five9 Radio** is a high-reliability 5G testbed platform designed to build, test, and validate URLLC, eMBB, and massive M2M communication scenarios with end-to-end control across radio, core, and edge networks.
+**5Nines Radio** is a high-reliability 5G testbed platform designed to build, test, and validate URLLC, eMBB, and massive M2M communication scenarios with end-to-end control across radio, core, and edge networks.
 
 
 
 
-<h2 class="features">Five9 Radio Architecture</h2> There are two operating modes of Five9 Radio:
+<h2 class="features">5Nines Radio Architecture</h2> There are two operating modes of 5Nines Radio:
 
-- Five9 Radio – 5G Non-Stand Alone (NSA) mode
-- Five9 Radio – 5G Stand Alone (SA) mode
+- 5Nines Radio – 5G Non-Stand Alone (NSA) mode
+- 5Nines Radio – 5G Stand Alone (SA) mode
 
 In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G base station (i.e. eNB), a 5G base station (i.e. gNB), and a 4G core network (CN), i.e. evolved packet core (EPC). All control-plane traffic is handled by the eNB whereas the user-plane traffic is handled by both eNB and gNB. In contrast, SA architecture eliminates LTE dependency, with the gNB managing both control and user planes in conjunction with the 5G Core (5GC).
 
 
 
-<h2 class="features">Table 1. Components of Five9 Radio</h2>
+<h2 class="features">Table 1. Components of 5Nines Radio</h2>
 
 | Components | Specifications |
 |-----------|----------------|
-| Components | CN Emulator<br>eNB Emulator<br>gNB Emulator<br>eNB/gNB Transceiver – Sub‑6 GHz<br>5G IoT Bridge<br>5G Smartphone<br>Portable Spectrum Analyzer<br>Five9 Radio Android App<br>Programmed SIM cards |
+| Components | CN Emulator<br>eNB Emulator<br>gNB Emulator<br>eNB/gNB Transceiver – Sub‑6 GHz<br>5G IoT Bridge<br>5G Smartphone<br>Portable Spectrum Analyzer<br>5Nines Radio Android App<br>Programmed SIM cards |
 | CN, gNB, eNB Emulator Hardware | I5/I7/I9 Processor, 1 TB HDD, 16 GB RAM |
 | Protocol Stack | NSA: EPC, gNB, eNB: 3GPP Rel. 15<br>SA: 5G Core, gNB: 3GPP Rel. 17 |
 | eNB Bandwidth | 5, 10, and 20 MHz |
@@ -68,7 +68,7 @@ In NSA mode, to establish a connection with a 5G Smartphone, one requires a 4G b
 <h2 class="features">Features</h2>
 
 
-The main features of Five9 Radio are as follows.
+The main features of 5Nines Radio are as follows.
 
 - Affordable for academic institutions
 - User-friendly handling for faculty members and students
@@ -108,7 +108,6 @@ Moreover, the Five9 Radio is designed to support:
 <h2 class="features">Support</h2>
 
 
-
 - **Training**: Training every six months for three years at either customer premises or Basig Wireless Laboratories India. Support to faculty members in drafting lab, skilling, and tutorial manual for the proposed experiments will be provided.
 
 - **Internships**: Internship opportunities will be provided for eligible UG and PG students in Wireless Communications, 5G, IoT, and RF Machine Learning. The selected students will be assigned to work on the following topics ranging from 2 to 6 months.
@@ -123,17 +122,17 @@ Moreover, the Five9 Radio is designed to support:
 ## Product
 Click on images to view larger.
 
-![Demo](images/5nines1.jpg){data-caption="Five9 Radio Infrastructure at KL University, Hyderabad"}
-![Demo](images/5nines2.jpg){data-caption="Five9 Radio Infrastructure at KL University, Hyderabad"}
-![Demo](images/5nines20.jpeg){data-caption="Five9 Radio Infrastructure at Mahindra University, Hyderabad"}
-![Demo](images/5nines18.jpeg){data-caption="Five9 Radio Infrastructure at KL University, Vijayawada"}
-![Demo](images/5nines19.jpeg){data-caption="Five9 Radio Infrastructure at KL University, Vijayawada"}
-![Demo](images/coregif.gif){data-caption="Five9 Radio - 5G Core"}
-![Demo](images/gnb_phy.gif){data-caption="Five9 Radio - gNB PHY Layer"}
-![Demo](images/gnb_phyla.gif){data-caption="Five9 Radio - gNB Link Adaptation"}
-![Demo](images/gnbanalysisgif.gif){data-caption="Five9 Radio - gNB PHY-MAC-RLC-PDCP Analysis"}
-![Demo](images/spectrum_tdd.gif){data-caption="Five9 Radio - Spectrum Activity with TDD 40 MHz Bandwidth"}
-![Demo](images/spectrum_fdd.gif){data-caption="Five9 Radio - Spectrum Activity with FDD 20 MHz Bandwidth"}
+![Demo](images/5nines1.jpg){data-caption="5Nines Radio Infrastructure at KL University, Hyderabad"}
+![Demo](images/5nines2.jpg){data-caption="5Nines Radio Infrastructure at KL University, Hyderabad"}
+![Demo](images/5nines20.jpeg){data-caption="5Nines Radio Infrastructure at Mahindra University, Hyderabad"}
+![Demo](images/5nines18.jpeg){data-caption="5Nines Radio Infrastructure at KL University, Vijayawada"}
+![Demo](images/5nines19.jpeg){data-caption="5Nines Radio Infrastructure at KL University, Vijayawada"}
+![Demo](images/coregif.gif){data-caption="5Nines Radio - 5G Core"}
+![Demo](images/gnb_phy.gif){data-caption="5Nines Radio - gNB PHY Layer"}
+![Demo](images/gnb_phyla.gif){data-caption="5Nines Radio - gNB Link Adaptation"}
+![Demo](images/gnbanalysisgif.gif){data-caption="5Nines Radio - gNB PHY-MAC-RLC-PDCP Analysis"}
+![Demo](images/spectrum_tdd.gif){data-caption="5Nines Radio - Spectrum Activity with TDD 40 MHz Bandwidth"}
+![Demo](images/spectrum_fdd.gif){data-caption="5Nines Radio - Spectrum Activity with FDD 20 MHz Bandwidth"}
 
 ---
 
