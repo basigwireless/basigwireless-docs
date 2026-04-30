@@ -9,6 +9,7 @@ Designed for academic institutions, R&D labs, and industry innovators, this plat
 ## Key Features
 
 - **5G Connectivity Integration**
+  
   - Supports standalone (SA) architecture 
   - Integration with custom 5G core
 
