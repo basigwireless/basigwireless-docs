@@ -1,7 +1,7 @@
 # 5NR‑NSMEC  
 ## 5G Network Slicing & MEC Emulator
 
-**5NR‑NSMEC** is a software‑based emulator for
+5NR‑NSMEC is a software‑based emulator for
 5G network slicing and Multi‑access Edge Computing (MEC).
 
 ## Features
