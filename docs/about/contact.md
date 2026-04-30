@@ -14,6 +14,8 @@ Tamil Nadu - 609309.
 Tharangambadi Taluk, Mayiladuthurai District  
 Tamil Nadu - 609309.
 
+**GSTIN:** 33AAOCB6314K1ZK
+
 ## Email Contacts
 - **General Enquiries:** [info@basigwireless.com](mailto:info@basigwireless.com)  
 - **Sales:** [sales@basigwireless.com](mailto:sales@basigwireless.com)  
