@@ -9,25 +9,30 @@ Designed for academic institutions, R&D labs, and industry innovators, this plat
 ## Key Features
 
  **5G Connectivity Integration** 
-  - Supports standalone (SA) architecture 
+ 
+  - Supports standalone (SA) architecture  
   - Integration with custom 5G core
 
 **V2X Communication Framework** 
+
   - Vehicle-to-Vehicle (V2V)  
   - Vehicle-to-Infrastructure (V2I)  
   - Vehicle-to-Network (V2N)  
   - Vehicle-to-Pedestrian (V2P)
 
 **Edge Computing (MEC) Support** 
-  - Real-time data processing at the edge  
+
+  - Real-time data processing at the edge   
   - AI/ML inference for autonomous decision-making  
 
 **Onboard Sensor Integration** 
-  - GPS, IMU, cameras, LiDAR (optional)  
+
+  - GPS, IMU, cameras, LiDAR (optional)   
   - Real-time telemetry and analytics  
 
 **Remote Monitoring & Control** 
-  - Cloud dashboard integration  
+
+  - Cloud dashboard integration   
   - Live vehicle diagnostics and control  
 
 ## Applications
